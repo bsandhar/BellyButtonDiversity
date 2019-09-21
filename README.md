@@ -1,6 +1,6 @@
 # Belly Button Biodiversity
 
-## Step 1 - Plotly.js
+## Plotly.js
 Used Plotly.js to build interactive charts for dashboard.
 
 ### Pie Chart
@@ -33,6 +33,6 @@ Used Plotly.js to build interactive charts for dashboard.
 
     * Updates all of the plots any time that a new sample is selected.
 
-## Step 2 - Heroku
+## Heroku
 
 * Deployed  Flask app to Heroku: https://bellybutton--biodiversity.herokuapp.com/
